@@ -19,6 +19,12 @@ There are so many tools as you go on through the course of learning of security,
 - [nmap](https://github.com/gh0ghnu3/CEHv11/blob/main/nmap.md)
 - [massscan](https://#)
 - [metasploit](https://#)
+
+
+# Books To Read
+
+Some books can pave the way for your learning toward being a security expert. I try to intrudce some good books here!
+- [Interesting Books](https://github.com/gh0ghnu3/CEHv11/blob/main/books.md)
 ## Roadmap
 
 - Write about all modules 
